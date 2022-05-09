@@ -1,0 +1,6 @@
+{
+	"appId": "io.deepapp.va",
+	"appName": "deepapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

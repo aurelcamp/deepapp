@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">deepapp</string>
+    <string name="title_activity_main">deepapp</string>
+    <string name="package_name">io.deepapp.va</string>
+    <string name="custom_url_scheme">io.deepapp.va</string>
+</resources>
